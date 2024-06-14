@@ -1,0 +1,15 @@
+{
+  "name": "sample_project_repo",
+  "version": "1.0.0",
+  "description": "This is the sample project to show the usage of repo on GitHub.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sample",
+    "project"
+  ],
+  "author": "Arpan Bhavsar",
+  "license": "ISC"
+}
